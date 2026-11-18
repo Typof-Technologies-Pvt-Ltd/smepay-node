@@ -5,11 +5,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahi-qwe/smepay-node.git"
+    "url": "git+https://github.com/Typof-Technologies-Pvt-Ltd/smepay-node.git"
   },
-  "homepage": "https://github.com/mahi-qwe/smepay-node#readme",
+  "homepage": "https://github.com/Typof-Technologies-Pvt-Ltd/smepay-node#readme",
   "bugs": {
-    "url": "https://github.com/mahi-qwe/smepay-node/issues"
+    "url": "https://github.com/Typof-Technologies-Pvt-Ltd/smepay-node/issues"
   },
   "type": "module",
   "main": "./dist/index.cjs",
